@@ -1,6 +1,6 @@
 Welcome to MyProject
 
-Author: Thomas
+Author: Thomas Claudius
 
 Twitter: @dennisyip
 
