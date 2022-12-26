@@ -1,6 +1,6 @@
 Welcome to MyProject
 
-Author: Thomas
+Author: Thomas Huber
 
 Twitter: @dennisyip
 
