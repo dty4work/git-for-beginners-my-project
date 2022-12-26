@@ -1,4 +1,4 @@
-Welcome to MyProject
+Welcome to "Git for Beginners" MyProject!
 
 Author: Thomas Claudius Huber
 
